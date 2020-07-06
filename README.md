@@ -9,4 +9,4 @@
  binaria (BPSK), son posibles dos fases de salida para una sola frecuencia de la portadora. Una fase de salida representada con 1 lógico y la otra a un 0 lógico. La modulación (BPSK) se utiliza para transmisores de bajo costo que no requieren altas velocidadedes.
 En la figura de abajo se muestra la "Forma de onda senosoidal normalizada"
 
-![Screenshot](onda.png)
+![Screenshot](onda portadora.png)
