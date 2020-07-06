@@ -10,3 +10,4 @@
 En la figura de abajo se muestra la "Forma de onda senosoidal normalizada"
 
 ![Screenshot](onda portadora.png)
+![Screenshot](onda portadora.png)
