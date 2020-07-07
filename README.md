@@ -47,6 +47,15 @@ Por lo que, para determinar si existe errores de transmisión lo que se procedi�
 
 
 ## 6)  Graficar BER versus SNR.
+Las tasas de error para cada una de las señales con ruido que se simularón a SNR de -2dB, 3dB y de -2dB a 3dB, se pueden ver respectivamente en la parte inferior, se puede observar que para -2dB se tiene un error significativo pero, para los demás dBs el error es nulo.
+
+#### Tasa de error para la señal SRN=-2dB 0.0001
+#### Tasa de error para la señal SRN=3dB = 0.0
+#### Tasa de error para la señal SRN=-2 a 3 dB = 0.0
+
+En las figura que aparece en la parte inferior se puede observar las señal de la tasa de error vs SRN, en donde la primera figura corresponde a la SRN=-2dB y así como aparece en la parte de arriba según la tasa de error :
+
+![Screenshot]()
 
 
 
