@@ -22,3 +22,5 @@ Dado que en la realidad cuando se transmite una señal por un medio ya sea por e
 ![Screenshot](Señalrecibida-2dB.png)
 ![Screenshot](Señalrecibida3dB.png)
 ![Screenshot](Señalrecibida-2-3dB.png)
+
+## 4)  Graficar la densidad espectral de potencia de la señal con el método de Welch (SciPy), antes y después del canal ruidoso.
