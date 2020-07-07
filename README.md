@@ -13,4 +13,4 @@ En la figura de abajo se muestra la "Forma de onda senosoidal normalizada"
 ## 2)  Calcular la potencia promedio de la señal modulada generada.
 
 
-$ \sum_{\forall i}{x_i^{2}} $
+$$ x_ {1,2} =\frac {-b\pm\sqrt {b ^ 2-4ac}} {2b}. $$
