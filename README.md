@@ -55,7 +55,7 @@ Las tasas de error para cada una de las señales con ruido que se simularón a S
 
 En las figura que aparece en la parte inferior se puede observar las señal de la tasa de error vs SRN, en donde la primera figura corresponde a la SRN=-2dB y así como aparece en la parte de arriba según la tasa de error :
 
-![Screenshot]()
+![Screenshot](BerVsSRN.png)
 
 
 
