@@ -10,6 +10,8 @@ En la figura de abajo se muestra la "Forma de onda senosoidal normalizada"
 
 ![Screenshot](ondaportadora.png)
 
+![Screenshot]()
+
 ## 2)  Calcular la potencia promedio de la señal modulada generada.
 
 Lo que primero que se hizo es encontrara la potencia instantanea de la señal modulada.Posteriormente se realizó la potencia promedio a partir de la potencia instantanea.
@@ -24,3 +26,5 @@ Dado que en la realidad cuando se transmite una señal por un medio ya sea por e
 ![Screenshot](Señalrecibida-2-3dB.png)
 
 ## 4)  Graficar la densidad espectral de potencia de la señal con el método de Welch (SciPy), antes y después del canal ruidoso.
+
+Atendiendo a su definición técnica, la densidad espectral de potencia (PSD) es la variación de energía que hay dentro de una señal vibratoria, en función de la frecuencia por unidad de masa. En otras palabras, la función de densidad espectral muestra para cada frecuencia si la energía presente es mayor o menor. 
