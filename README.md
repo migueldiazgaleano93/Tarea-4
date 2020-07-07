@@ -12,15 +12,15 @@ En la figura de abajo se muestra la "Forma de onda senosoidal normalizada"
 
 ## 2)  Calcular la potencia promedio de la señal modulada generada.
 
-"$$\n",
+
     "P(T) = \\frac{1}{2T}\\int_{-T}^{T}x^2(t) ~\\mathrm{d}t = A\\{x^2(t)\\}\n",
-    "$$\n",
+  
     "\n",
     "y también que:\n",
     "\n",
-    "$$\n",
+  
     "P(T) = \\frac{1}{2T}\\int_{-T}^{T}E[X^2(t)] ~\\mathrm{d}t = A\\{E[X^2(t)]\\}\n",
-    "$$\n",
+    
 
 
 
