@@ -27,10 +27,10 @@ Dado que en la realidad cuando se transmite una señal por un medio ya sea por e
 
 ## 4)  Graficar la densidad espectral de potencia de la señal con el método de Welch (SciPy), antes y después del canal ruidoso.
 
-Atendiendo a su definición técnica, la densidad espectral de potencia (PSD) es la variación de energía que hay dentro de una señal vibratoria, en función de la frecuencia por unidad de masa. En otras palabras, la función de densidad espectral muestra para cada frecuencia si la energía presente es mayor o menor. 
+Atendiendo a su definición técnica, la densidad espectral de potencia (PSD) es la variación de energía que hay dentro de una señal vibratoria, en función de la frecuencia por unidad de masa. En otras palabras, la función de densidad espectral muestra para cada frecuencia si la energía presente es mayor o menor.
 #### Espectral  
 Indica que la densidad espectral de potencia PSD es una función respecto de la frecuencia. La densidad espectral de potencia representa así la distribución de una señal en función del espectro de frecuencias. 
-#### potencia 
+#### Potencia 
 Indica que la magnitud de la función de densidad espectral de potencia corresponde con el valor medio cuadrático de la señal que ha sido analizada. 
 
 ![Screenshot](PDEdespuescanalruidosoSRN=-2dB.png)
