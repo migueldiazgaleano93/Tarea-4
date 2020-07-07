@@ -19,6 +19,6 @@ El resultado obtenido en pycharm es de 0.49500049500049487, este resultado se pu
 
 Dado que en la realidad cuando se transmite una señal por un medio ya sea por el espacio como las ondas de radio o por un medio como un cable, la señal transmitida no tendrá una forma definida debido al ruido ocacionado por el medio por la que la señal es transmitida. A un canal ruidoso del tipo (AWGN) también conocido como ruido blanco gaussiano por lo que exite una relación de señal a ruido (SNR). En las figuras que aparecen en la parte inferior en donde se muestra señales con -2dB,3dB y -2dB hasta 3dB, en el códogo se puede ver los pasos que se realizaron para llegar a las gráficas que se puden ver.
 
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot](Señalrecibida-2dB.png)
+![Screenshot](Señalrecibida3dB.png)
+![Screenshot](Señalrecibida-2-3dB.png)
