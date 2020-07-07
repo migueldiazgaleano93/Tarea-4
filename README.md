@@ -10,7 +10,7 @@ En la figura de abajo se muestra la "Forma de onda senosoidal normalizada"
 
 ![Screenshot](ondaportadora.png)
 
-![Screenshot]()
+![Screenshot](modulada.png)
 
 ## 2)  Calcular la potencia promedio de la señal modulada generada.
 
