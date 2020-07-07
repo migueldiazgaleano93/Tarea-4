@@ -14,4 +14,4 @@ En la figura de abajo se muestra la "Forma de onda senosoidal normalizada"
 
 Lo que primero que se hizo es encontrara la potencia instantanea de la señal modulada.Posteriormente se realizó la potencia promedio a partir de la potencia instantanea.
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;P(T)=\frac{1}{2T}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;P(T)=\frac{1}{2T} int" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
