@@ -37,7 +37,7 @@ Indica que la magnitud de la función de densidad espectral de potencia correspo
 ![Screenshot](PDEdespuescanalruidosoSRN=3dB.png)
 ![Screenshot](PDEdespuescanalruidosoSRN=-2dBa3dB.png)
 
-## 4) Demodular y decodificar la señal y hacer un conteo de la tasa de error de bits (BER, bit error rate) para cada nivel SNR.
+## 5) Demodular y decodificar la señal y hacer un conteo de la tasa de error de bits (BER, bit error rate) para cada nivel SNR.
 
 
 
