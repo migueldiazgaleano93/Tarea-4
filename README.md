@@ -29,9 +29,9 @@ Dado que en la realidad cuando se transmite una señal por un medio ya sea por e
 
 Atendiendo a su definición técnica, la densidad espectral de potencia (PSD) es la variación de energía que hay dentro de una señal vibratoria, en función de la frecuencia por unidad de masa. En otras palabras, la función de densidad espectral muestra para cada frecuencia si la energía presente es mayor o menor. 
 
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot](PDEdespuescanalruidosoSRN=-2dB.png)
+![Screenshot](PDEdespuescanalruidosoSRN=3dB.png)
+![Screenshot](PDEdespuescanalruidosoSRN=-2dBa3dB.png)
 
 
 
