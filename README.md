@@ -41,6 +41,10 @@ Indica que la magnitud de la función de densidad espectral de potencia correspo
 
 
 
+## 6)  Graficar BER versus SNR.
+
+
+
 
 
 
