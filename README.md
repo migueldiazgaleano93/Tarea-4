@@ -13,7 +13,4 @@ En la figura de abajo se muestra la "Forma de onda senosoidal normalizada"
 ## 2)  Calcular la potencia promedio de la señal modulada generada.
 
 Lo que primero que se hizo es encontrara la potencia instantanea de la señal modulada.Posteriormente se realizó la potencia promedio a partir de la potencia instantanea.
-
-\begin(equation)
-E
-\end(equation)
+El resultado obtenido en pycharm es de $0.49500049500049487$
