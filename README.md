@@ -40,6 +40,7 @@ Indica que la magnitud de la función de densidad espectral de potencia correspo
 ## 5) Demodular y decodificar la señal y hacer un conteo de la tasa de error de bits (BER, bit error rate) para cada nivel SNR.
 
 Debido a que la señal transmitida posee mucho ruido, lo que causaría es que cuando se trate de decodificar la señal transmitida puede tener muchos errores ya que, la información transmitida en forma de bits al principio puede ser que cuando sea decodificada esta tenga errores, es decir que el conjunto de bits transmitidos al principio sea diferente a los bits recibidos. Por ende, lo que se pretende reducir al máximo posible los errores por causa del ruido producido según el medio por el cual la señal fue transmitida por ende, en este apartado se decodifico la señal mediante la implementación del if y se puso dos condiciones cuando es un 1 lógico o un 0 lógico y se comparo con la señal original de la señal portadora, con el propósito de reducir los errores de transmisión de bits a causa del ruido provocado por el medio por donde se transmitió la señal. 
+Por lo que, para determinar si existe errores de transmisión lo que se procedió a hacer es una sumatoria de todos los posibles errores de la señal, dado esto para obtener dicho error se restó los bits transmitidos en la señal portadora menos los bits recibidos. En el código se puede ver en la sección que respecta para este apartado que el error obtenido para cada una de las señales transmitidas con ruido es cero.
 
 
 
